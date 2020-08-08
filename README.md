@@ -8,4 +8,4 @@
 
 就我个人而言， 我喜欢第二种方式，研究一下页面的懒加载， 它不香?
 
-![代码截图](https://github.com/ancherl/LOLSkinsSpider/raw/master/Capture.png)
+![代码截图](https://github.com/ancherl/LOLSkinsSpider/blob/master/images/Capture.png)

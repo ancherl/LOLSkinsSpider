@@ -8,4 +8,4 @@
 
 就我个人而言， 我喜欢第二种方式，研究一下页面的懒加载， 它不香?
 
-![aTIeCn.png](https://s1.ax1x.com/2020/08/09/aTIeCn.png)re.png)
+[![aTIeCn.md.png](https://s1.ax1x.com/2020/08/09/aTIeCn.md.png)](https://imgchr.com/i/aTIeCn)
